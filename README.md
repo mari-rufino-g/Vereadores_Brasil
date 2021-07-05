@@ -7,7 +7,7 @@ Este repositório contém um simples projeto de Data Science desenvolvido para e
 * 	Seaborn:   Para visualização dos dados;
 * 	Matplotilib:  Para produção de gráficos
 * 	Geopandas:  Para visualização de dados espaciais e georreferenciados
-* 	
+	
 Estudei sobre as cotas eleitorais para mulheres e seus impactos nas eleições para o cargo de vereador. 
 
 
