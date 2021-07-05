@@ -53,9 +53,7 @@ Foi realizada uma análise inicial dos dados (AED) com o objetivo de obter insig
 
 ## 🖇️ Resultados
 
-![Lkd](https://user-images.githubusercontent.com/80469682/124502925-cc773a80-dd9a-11eb-8373-022198d4276f.png)
-
-
+![Lkd2](https://user-images.githubusercontent.com/80469682/124503200-6c34c880-dd9b-11eb-864f-a24cfed83ef9.png)
 
 
 ## 📌 Conclusão
