@@ -1,4 +1,5 @@
-
+![HeaderFundoEleitoral](https://user-images.githubusercontent.com/80469682/124503656-625f9500-dd9c-11eb-985a-d9870c126055.png)
+ 
  # Vereadoras - Por candidaturas competitivas
 
 Este repositório contém um simples projeto de Data Science desenvolvido para embasar um trabalho para a disciplina Sistemas políticos, partidários e eleitorais do curso Mídia, Política e Sociedade que realizo na FESPSP. O projeto foi realizado utilizando a linguagem python e diversas bibliotecas específicas da área de Data Science sendo as principais:
