@@ -35,8 +35,8 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 O TSE disponibiliza em seu site dois arquivos sobre os resultados das eleições: um sobre o resultado em si e outro sobre os dados dos candidatos. 
 
-* **•	Consulta de candidatos por zona eleitoral:** - 63 colunas em que há dados como estado civil, gênero, bens declarados, número do partido, idade, ocupação, cor/raça, grau de instrução, email, cpf, cidade, valor gasto para campanha, etc.
-* **•	Resultados da votação por zona eleitoral por candidato:** - 38 colunas com dados sobre a candidatura tais como numero do partido, quantidade de votos obtidos,  município, estado, cargo (prefeito ou vereador), código de município, partido político, coligação, etc. 
+* **•	Consulta de candidatos por zona eleitoral:**  63 colunas em que há dados como estado civil, gênero, bens declarados, número do partido, idade, ocupação, cor/raça, grau de instrução, email, cpf, cidade, valor gasto para campanha, etc.
+* **•	Resultados da votação por zona eleitoral por candidato:**  38 colunas com dados sobre a candidatura tais como numero do partido, quantidade de votos obtidos,  município, estado, cargo (prefeito ou vereador), código de município, partido político, coligação, etc. 
 * **•	Shapefile do Brasil** - Para produção do mapa
 
 Foi preciso mesclar os dois dataframes (candidatos e resultado das eleições) já que queria verificar os resultados das urnas levando em consideração o gênero dos candidatos. Selecionei as seguintes colunas: 
