@@ -18,13 +18,13 @@ Em 2018, o TSE determinou que os partidos deveriam destinar ao menos 30% do fund
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-1.	A lei que garante a reserva de 30% do fundo eleitoral para mulheres provocou aumento do número de vereadoras eleitas em 2020 se comparado a 2016?
+1.	A lei mencionada provocou aumento do número de vereadoras eleitas em 2020 se comparado a 2016?
 ```
 ```
 2.	Em que medida a sub-representação das mulheres pode ser atribuída à baixa oferta de candidatas?
 ```
 ```
-3.	Nos dois anos estudados, o investimento na candidatura de vereadores foi maior do que para mulheres?
+3.	Em 2016 e 2020, o investimento na candidatura de vereadores foi maior do que para mulheres?
 ```
 ```
 4.	Existe alguma relação entre região brasileira e proporção de mulheres nas câmaras municipais? 
@@ -60,8 +60,6 @@ Foi realizada uma análise inicial dos dados (AED) com o objetivo de obter insig
 Não se pode afirmar que as mudanças foram provocadas pela decisão do TSE sobre a distribuição partidária, mas ao comparar todos os dados obtidos a partir dos resultados das eleições de 2020 em relação a 2016 é possível afirmar que houve uma melhora no que diz respeito às candidaturas de mulheres conforme dados compilados acima. Se "não há no mundo nenhum motivo para negar à mulher o exercício do direito de votar ou a participação na criação e na administração da lei do país" é preciso garantir às mulheres candidaturas competitivas para que possam participar de fato sobre a incidência política, sobre a seleção de candidaturas, decisões partidárias, distribuição de recursos. Elas precisam poder escolher pela participação dos processos de tomada de decisão e isso não se faz com apenas 30% de recursos do fundo partidário.
 
 ## 🛠️ Referências
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [Dados eleitorais](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais) - Base de dados para análise
 * [Fundo Partidário - 30% para mulheres](https://www.tse.jus.br/imprensa/noticias-tse/2020/Agosto/acoes-do-tse-valorizam-participacao-da-mulher-na-politica-e-incentivam-candidaturas-femininas) - TSE aprova exigência de 30% do fundo partidário para candidaturas femininas
