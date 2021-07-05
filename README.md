@@ -3,10 +3,10 @@
 
 Este repositório contém um simples projeto de Data Science desenvolvido para embasar um trabalho para a disciplina Sistemas políticos, partidários e eleitorais do curso Mídia, Política e Sociedade que realizo na FESPSP. O projeto foi realizado utilizando a linguagem python e diversas bibliotecas específicas da área de Data Science sendo as principais:
 
-* **	Pandas:** - Para importação e exploração dos dados;
-* **	Seaborn:**  - Para visualização dos dados;
-* **	Matplotilib:** – Para produção de gráficos
-* **	Geopandas:** - Para visualização de dados espaciais e georreferenciados
+* 	Pandas: - Para importação e exploração dos dados;
+* 	Seaborn:  - Para visualização dos dados;
+* 	Matplotilib:** – Para produção de gráficos
+* 	Geopandas: - Para visualização de dados espaciais e georreferenciados
 Estudei sobre as cotas eleitorais para mulheres e seus impactos nas eleições para o cargo de vereador. 
 
 
