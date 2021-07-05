@@ -52,7 +52,8 @@ Foi realizada uma análise inicial dos dados (AED) com o objetivo de obter insig
 
 ## 🖇️ Resultados
 
-<div class="flourish-embed" data-src="story/913882"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+![Img1](https://user-images.githubusercontent.com/80469682/124502837-9c2f9c00-dd9a-11eb-9c85-b2417b083aaf.png)
+
 
 
 ## 📌 Conclusão
