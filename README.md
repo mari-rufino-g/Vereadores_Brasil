@@ -2,7 +2,7 @@
  
  # Vereadoras - Por candidaturas competitivas
 
-Este repositório contém um simples projeto de Data Science desenvolvido para embasar um trabalho para a disciplina Sistemas políticos, partidários e eleitorais do curso Mídia, Política e Sociedade que realizo na FESPSP. O projeto foi realizado utilizando a linguagem python e diversas bibliotecas específicas da área de Data Science sendo as principais:
+Este repositório contém um simples projeto de Análise de Dados desenvolvido para embasar um trabalho para a disciplina Sistemas políticos, partidários e eleitorais do curso Mídia, Política e Sociedade que realizo na FESPSP. O projeto foi realizado utilizando a linguagem python e diversas bibliotecas específicas da área de dados sendo as principais:
 
 * 	Pandas:  Para importação e exploração dos dados;
 * 	Seaborn:   Para visualização dos dados;
